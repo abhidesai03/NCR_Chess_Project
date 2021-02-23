@@ -1,0 +1,4 @@
+com\ncr\chess\MovementType.class
+com\ncr\chess\Pawn.class
+com\ncr\chess\ChessBoard.class
+com\ncr\chess\PieceColor.class
